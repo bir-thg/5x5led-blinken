@@ -6,7 +6,7 @@
         # . . . #
         `</field><next><block type="device_pause" id="J$AX?Z-KEU~!})5)CbCQ"><value name="pause"><shadow type="timePicker" id="iiq/ys-b=g;IHOA,mEb:"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="Y~n`oB0CX$[RQZ@T-=$t"><field name="LEDS">`
         . . . . . 
-        . . . . . 
+        . . # # # 
         . . . . . 
         . . . . . 
         . . . . .
